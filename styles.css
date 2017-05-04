@@ -2,6 +2,7 @@
       --base: #98E2FF;
       --spacing: 50px;
       --blur: 0px;
+      --center: 0 auto;
     }
 
     img {
@@ -12,6 +13,7 @@
 
     .hl {
       color: var(--base);
+      margin: var(--center);    
     }
 
     /*
