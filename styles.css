@@ -40,4 +40,5 @@
 
     input {
       width: 100px;
+      min-height: 2rem;
     }
