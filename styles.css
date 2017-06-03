@@ -48,6 +48,11 @@
       margin: 0 0.5rem;    
     }
 
-    .footer {color: #EFEFEF;}
+    .footer {   
+      color: #EFEFEF;
+    }
 
-    .footer_content{color: #EAEAEA;}
+    .footer_content {
+      color: #EAEAEA;
+      padding: 1rem;   
+    }   
