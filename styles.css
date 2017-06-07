@@ -50,7 +50,8 @@
 
     .footer {   
       color: #EFEFEF;
-      padding: 0.5rem;    
+      padding: 0.5rem;
+      margin: 0rem;   
     }
 
     .footer_content {
