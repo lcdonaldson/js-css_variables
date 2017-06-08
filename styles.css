@@ -3,6 +3,7 @@
       --spacing: 50px;
       --blur: 0px;
       --center: 0 auto;
+      
     }
 
     img {
@@ -32,12 +33,12 @@
       color: white;
       font-family: 'helvetica neue', sans-serif;
       font-weight: 100;
-      font-size: 50px;
+      font-size: 4em;
       padding: 0.5rem;    
     }
 
     .controls {
-      margin-bottom: 50px;
+      margin-bottom: 5rem;
     }
 
     input {
