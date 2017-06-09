@@ -6,6 +6,22 @@
       
     }
 
+
+    body {
+      
+    }
+
+    body {
+      text-align: center;    
+      padding: 0.5rem;
+      margin: 0;    
+      background: #193549;
+      color: white;
+      font-family: 'helvetica neue', sans-serif;
+      font-weight: 100;
+      font-size: 4em;    
+    }
+
     img {
       padding: var(--spacing);
       background: var(--base);
@@ -18,24 +34,6 @@
       padding: 0.5rem;
     }
 
-    /*
-      misc styles, nothing to do with CSS variables
-    */
-
-    body {
-      text-align: center;
-      margin: 0;
-      padding: 0;    
-    }
-
-    body {
-      background: #193549;
-      color: white;
-      font-family: 'helvetica neue', sans-serif;
-      font-weight: 100;
-      font-size: 4em;
-      padding: 0.5rem;    
-    }
 
     .controls {
       margin-bottom: 5rem;
