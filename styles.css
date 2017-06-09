@@ -2,13 +2,7 @@
       --base: #98E2FF;
       --spacing: 50px;
       --blur: 0px;
-      --center: 0 auto;
-      
-    }
-
-
-    body {
-      
+      --center: 0 auto; 
     }
 
     body {
@@ -28,7 +22,7 @@
       filter: blur(var(--blur));
     }
 
-    .hl {
+    .h1 {
       color: var(--base);
       margin: var(--center);
       padding: 0.5rem;
