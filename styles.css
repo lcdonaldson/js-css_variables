@@ -53,5 +53,6 @@
 
     .footer_content {
       color: #EAEAEA;
-      padding: 1rem;   
+      padding: 1rem;
+      max-width: 960px;
     }   
