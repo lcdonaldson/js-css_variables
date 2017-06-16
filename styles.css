@@ -37,6 +37,11 @@
       margin-bottom: 5rem;
     }
 
+    .buffer {
+      margin: 0.5rem;
+      padding: 0.5rem;
+    }
+
     input {
       width: 100px;
       min-height: 2rem;
