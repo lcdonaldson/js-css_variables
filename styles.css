@@ -22,7 +22,7 @@
       filter: blur(var(--blur));
     }
 
-    .hl {
+    .l-text {
       color: var(--base);
       margin: var(--center);
       padding: 0.5rem;
