@@ -2,7 +2,8 @@
       --base: #98E2FF;
       --spacing: 4rem;
       --blur: 0px;
-      --center: 0 auto; 
+      --center: 0 auto;
+      --full: 100%;
     }
 
     body {
@@ -19,7 +20,7 @@
     img {
       padding: var(--spacing);
       background: var(--base);
-      filter: blur(var(--blur));
+      filter: var(--blur);
     }
 
     .l-text {
@@ -40,6 +41,10 @@
     .buffer {
       margin: 0.5rem;
       padding: 0.5rem;
+    }
+
+    .icon_sm {
+      width: var(--full);
     }
 
     input {
