@@ -30,8 +30,12 @@
     }
 
      h1 {
-       padding: 0.5 rem;
+       padding: 0.5 rem;    
      }
+
+    h1:hover {
+      transform: rotate(30deg);
+    } 
 
     section {
        margin: 2rem 1rem;   
