@@ -4,6 +4,7 @@
       --blur: 0px;
       --center: 0 auto;
       --full: 100%;
+      --lightgrey;
     }
 
     body {
@@ -60,7 +61,7 @@
       border: 1px solid red;
       padding: 0rem;
       margin: 0 0.5rem;
-      background-color: #EAEAEA;    
+      background-color: var(--lightgrey);    
     }
 
     .footer {   
@@ -70,7 +71,7 @@
     }
 
     .footer_content {
-      color: #EAEAEA;
+      color: var(--lightgrey);
       padding: 1rem;
       max-width: 60rem;
     }   
