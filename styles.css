@@ -19,6 +19,10 @@
       font-size: 4em;    
     }
 
+    .wrapper {
+      min-height: calc(100vh - 160px);
+    }
+  
     img {
       padding: var(--spacing);
       background: var(--base);
