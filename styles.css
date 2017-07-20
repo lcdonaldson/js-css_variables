@@ -5,7 +5,7 @@
       --center: 0 auto;
       --full: 100%;
       --primary_color: #EAEAEA;
-      
+      --pad_sm: 1rem;
     }
 
     body {
@@ -64,7 +64,7 @@
       width: 100px;
       min-height: 2rem;
       border: 1px solid red;
-      padding: 0;
+      padding: var(--pad_sm);
       margin: 0 0.5rem;
       background-color: var(--primary_color);    
     }
