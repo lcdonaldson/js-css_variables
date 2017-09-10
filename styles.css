@@ -22,6 +22,8 @@
     .wrapper {
       min-height: calc(100vh - 160px);
     }
+    
+    aside { border-radius: 2px;}
   
     img {
       padding: var(--spacing);
