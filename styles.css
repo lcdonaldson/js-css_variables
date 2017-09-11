@@ -18,6 +18,8 @@
       font-weight: 100;
       font-size: 4em;    
     }
+    
+    .main { margin-left: 2rem;}
 
     .wrapper {
       min-height: calc(100vh - 160px);
