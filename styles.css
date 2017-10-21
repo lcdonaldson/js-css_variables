@@ -19,7 +19,7 @@
       font-size: 4em;    
     }
     
-    .main { margin-left: 2rem;}
+    .main { margin-left: 2rem;padding: 0;}
 
     .wrapper {
       min-height: calc(100vh - 20rem);
