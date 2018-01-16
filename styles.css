@@ -21,9 +21,7 @@
     
     .main { margin-left: 2rem;padding: 0;}
 
-    .wrapper {
-      min-height: calc(100vh - 20rem);
-    }
+    .wrapper { min-height: calc(100vh - 20rem); }
     
     aside { border-radius: 0.5rem;}
   
@@ -39,30 +37,20 @@
       padding: 0.5rem;
     }
 
-    h1 {
-      padding: 0.5 rem;    
-    }
+    h1 { padding: 0.5 rem; }
 
-    h1:hover {
-      transform: rotate(30deg);
-    } 
+    h1:hover { transform: rotate(30deg); } 
 
-    section {
-       margin: 2rem 1rem;   
-    }  
+    section { margin: 2rem 1rem; }  
 
-    .controls {
-      margin-bottom: 5rem;
-    }
+    .controls { margin-bottom: 5rem; }
 
     .buffer {
       margin: 0.5rem;
       padding: 0.5rem;
     }
 
-    .icon_sm {
-      width: var(--full);
-    }
+    .icon_sm { width: var(--full); }
 
     input {
       width: 100px;
@@ -85,8 +73,4 @@
       max-width: 60rem;
     }   
 
-    @media (min-width: 768px) {
-        input {
-            width: 0 auto;  
-        }
-    }
+    @media (min-width: 768px) { input { width: 0 auto; } };
