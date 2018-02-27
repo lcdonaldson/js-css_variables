@@ -19,8 +19,10 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#DDDDDD',
     padding: 10,
+    margin: 2,
     borderRadius: 4,
-    fontSize: 18
+    fontSize: 18,
+    
   },
 });
 
