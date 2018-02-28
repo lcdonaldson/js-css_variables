@@ -1,10 +1,12 @@
 import React from 'react';
-import { View, TouchableOpacity,
+import { View, TouchableOpacity,Text,
   StyleSheet } from 'react-native';
 
 const Button = () => {
   <View style={styles.container}>
-    <TouchableOpacity style={styles.button} onPress={this.onPress}>click me</TouchableOpacity>
+    <TouchableOpacity style={styles.button} onPress={this.onPress}>
+      <Text>Click Me</Text>
+    </TouchableOpacity>
   </View>
 };
 
