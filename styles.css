@@ -19,11 +19,11 @@
       font-size: 4em;    
     }
     
-    .main { margin-left: 2rem;padding: 0;}
+    .main { margin-left: 2rem;padding: 0; }
 
     .wrapper { min-height: calc(100vh - 20rem); }
     
-    aside { border-radius: 0.5rem;}
+    aside { border-radius: 0.5rem; }
   
     img {
       padding: var(--spacing);
