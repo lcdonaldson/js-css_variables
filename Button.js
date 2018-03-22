@@ -5,7 +5,7 @@ import { View, TouchableOpacity,Text,
 const Button = () => {
   <View style={styles.container}>
     <TouchableOpacity style={styles.button} onPress={this.onPress}>
-      <Text>Click Me</Text>
+      <Text style={styles.size}>Click Me</Text>
     </TouchableOpacity>
   </View>
 };
@@ -22,10 +22,13 @@ const styles = StyleSheet.create({
     backgroundColor: '#DDDDDD',
     padding: 10,
     margin: 2,
-    borderRadius: 4,
-    fontSize: 18,
-    
+    borderRadius: 4
   },
+
+  size: {
+    fontSize: 18
+  }
+  
 });
 
 export default Button;
