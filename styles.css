@@ -1,7 +1,6 @@
 :root {
       --base: #98E2FF;
-      --spacing: 4rem;
-      --blur: 0;
+      --spacing: 4rem; 
       --center: 0 auto;
       --full: 100%;
       --primary_color: #EAEAEA;
@@ -19,7 +18,10 @@
       font-size: 4em;    
     }
     
-    .main { margin-left: 2rem;padding: 0; }
+    .main { 
+      margin-left: 2rem;
+      padding: 0; 
+    }
 
     .wrapper { min-height: calc(100vh - 20rem); }
     
@@ -37,7 +39,7 @@
       padding: 0.5rem;
     }
 
-    h1 { padding: 0.5 rem; }
+    h1 { padding: 0.5rem; }
 
     h1:hover { transform: rotate(30deg); } 
 
