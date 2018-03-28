@@ -1,9 +1,11 @@
 import React from 'react';
-import { AppRegistry, Text } from 'react-native';
+import { AppRegistry, View, Text } from 'react-native';
 
 const App = () => {
   return (
-    <Text>Start</Text>
+    <View>
+      <Text>Start</Text>
+    </View>
   )
 }
 
