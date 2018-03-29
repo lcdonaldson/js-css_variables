@@ -5,6 +5,7 @@
       --full: 100%;
       --primary_color: #EAEAEA;
       --pad_sm: 1rem;
+      --pad_hz: 1rem;
     }
 
     body {
