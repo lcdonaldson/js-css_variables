@@ -4,3 +4,4 @@
 without the use of less/sass compiler. Started with the boilerplate code, followed the tutorial and then customized some elements.
 
 This is also a good general repo for evolving css (no-preprocessor) features to try out as they come along</p>
+In particular some react native examples and how easy the process of making variables to run natively on a device without a browser.
