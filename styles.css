@@ -76,4 +76,6 @@
       max-width: 60rem;
     }   
 
-    @media (min-width: 768px) { input { width: 0 auto; } };
+    @media (min-width: 768px) { 
+      input { width: 0 auto; } 
+    };
