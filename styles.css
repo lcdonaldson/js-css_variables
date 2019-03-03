@@ -6,6 +6,7 @@
       --primary_color: #EAEAEA;
       --pad_sm: 1rem;
       --pad_hz: 1rem;
+      --clip-path-message: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
     }
 
     body {
@@ -32,6 +33,7 @@
       padding: var(--spacing);
       background: var(--base);
       filter: var(--blur);
+      clip-path: var(--clip-path-message);    
     }
 
     .l-text {
