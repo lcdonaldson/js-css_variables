@@ -58,7 +58,7 @@
     .icon_sm { width: var(--full); }
 
     input {
-      width: 100px;
+      width: 6.25rem;
       min-height: 2rem;
       border: 1px solid red;
       padding: var(--pad_sm);
