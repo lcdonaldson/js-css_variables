@@ -6,6 +6,7 @@
       --primary_color: #EAEAEA;
       --pad_sm: 1rem;
       --pad_hz: 1rem;
+      --white: #FFFFFF;
       --clip-path-message: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
     }
 
@@ -14,7 +15,7 @@
       padding: 0.5rem;
       margin: 0;    
       background: #193549;
-      color: #FFFFFF;
+      color: var(--white);
       font-family: 'helvetica neue', sans-serif;
       font-weight: 100;
       font-size: 4em;    
