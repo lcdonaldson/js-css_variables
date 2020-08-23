@@ -5,4 +5,4 @@ without the use of less/sass compiler. I started with the boilerplate code, foll
 
 This is also a good general repo for evolving css (no preprocessor) features to try out as they come along like custom properties.
 
-In particular some react native examples and how easy the process of making variables to run natively on a device.
+In particular some react native examples and how easy the process of making variables run natively on a mobile device.
