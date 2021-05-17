@@ -1,6 +1,6 @@
 # CSS Variables with JS
 
-This repo comes from a Wes Bos start file (javascript30.com). This one deals with css variables being able to update vanilla JS
+This repo comes from a Wes Bos start file. This one deals with css variables being able to update vanilla JS
 without the use of a less/sass compiler. I started with the boilerplate code, followed parts of the tutorial and then I customized some elements.
 
 This is also a repo for experimenting with evolving css features to try like custom properties.
